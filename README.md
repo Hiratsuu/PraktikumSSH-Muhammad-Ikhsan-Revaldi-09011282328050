@@ -1,12 +1,12 @@
 # PraktikumSSH-Muhammad-Ikhsan-Revaldi-09011282328050
 # SSH Server Setup on Linux
 
-![System update and upgrade](https://raw.githubusercontent.com/yourusername/yourrepository/main/image1.jpg)
+![System update and upgrade](https://github.com/Hiratsuu/PraktikumSSH-Muhammad-Ikhsan-Revaldi-09011282328050/blob/main/SSH/1.png?raw=true)
 
-![Installing OpenSSH server](https://raw.githubusercontent.com/yourusername/yourrepository/main/image2.jpg)
+![Installing OpenSSH server](https://github.com/Hiratsuu/PraktikumSSH-Muhammad-Ikhsan-Revaldi-09011282328050/blob/main/SSH/2.png?raw=true)
 
-![Configuring and starting SSH service](https://raw.githubusercontent.com/yourusername/yourrepository/main/image3.jpg)
+![SSH service installation details](https://github.com/Hiratsuu/PraktikumSSH-Muhammad-Ikhsan-Revaldi-09011282328050/blob/main/SSH/3.png?raw=true)
 
-![SSH service installation details](https://raw.githubusercontent.com/yourusername/yourrepository/main/image4.jpg)
+![Configuring and starting SSH service](https://github.com/Hiratsuu/PraktikumSSH-Muhammad-Ikhsan-Revaldi-09011282328050/blob/main/SSH/3.1.png?raw=true)
 
-![Checking SSH status and allowing through firewall](https://raw.githubusercontent.com/yourusername/yourrepository/main/image5.jpg)
+![Checking SSH status and allowing through firewall](https://github.com/Hiratsuu/PraktikumSSH-Muhammad-Ikhsan-Revaldi-09011282328050/blob/main/SSH/4.png?raw=true)
