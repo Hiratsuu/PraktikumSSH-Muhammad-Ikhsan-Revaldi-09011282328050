@@ -3,7 +3,7 @@
 ### Kelas: SK3C
 # Melakukan setup dan menguhubungkan ke pc lain melalui SSH pada linux
 
-1. Melakukan persiapan untuk menginstal layanan SSH pada linux dengan cara melakukan upgrade dan update pada semua paket apt ke versi terbaru.
+1. Melakukan persiapan untuk menginstal layanan SSH pada linux dengan cara melakukan upgrade dan update pada semua paket apt ke versi terbaru dengan tujuan memastikan instalasi openssh dari repository terbarukan untuk mendapat package yang lebih termutakhir
 ![System update and upgrade](https://github.com/Hiratsuu/PraktikumSSH-Muhammad-Ikhsan-Revaldi-09011282328050/blob/main/SSH/1.png?raw=true)
 
 2. Lalu setelah itu kita lakukan penginstalan layanan SSH nya dengan command **Sudo apt install openssh-server**
